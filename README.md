@@ -2,4 +2,5 @@
 Core code for the classic Catching Egg game
 
 
-<img src="Capture.PNG" alt="Italian Trulli">
+<img src="Capture.PNG" alt="None">
+
